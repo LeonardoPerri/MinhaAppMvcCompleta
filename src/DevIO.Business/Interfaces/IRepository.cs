@@ -1,0 +1,22 @@
+﻿using DevIO.Business.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq.Expressions;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DevIO.Business.Interfaces
+{
+    //Repositório genérico, utilizando IDisposable para fazer a liberação de memória e onde o TEntity filha de Entity
+    public interface IRepository<TEntity> : IDisposable where TEntity : Entity
+    {
+        Task Adicionar(TEntity entity);
+        Task<TEntity> ObterPorId(Guid id);
+        Task<List<TEntity>> ObterTodos();
+        Task Atualizar(TEntity entity);
+        Task Remover(Guid id);
+        //Possibilita a passagem de uma expressão lambda para encontrar qualquer entity por qualquer parâmetro
+        Task<IEnumerable<TEntity>> Buscar(Expression<Func<TEntity, bool>> predicate);
+        Task<int> SaveChanges();
+    }
+}
