@@ -1,2 +1,2 @@
 # MinhaAppMvcCompleta
-Aplicação do curso Domingo o ASP.NET MVC Core do Eduardo Pires, através da plataforma Desenvolvedor.io
+Aplicação do curso "Dominando o ASP.NET MVC Core" da plataforma Desenvolvedor.io
