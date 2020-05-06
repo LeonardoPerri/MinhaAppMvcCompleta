@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\source\\repos\\MinhaAppMvcCompleta\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {}
+    "D:\\Repositorios\\Estudos\\Desenvolvedor.io\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\source\\repos\\MinhaAppMvcCompleta\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "D:\\Repositorios\\Estudos\\Desenvolvedor.io\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\MinhaAppMvcCompleta\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "D:\\Repositorios\\Estudos\\Desenvolvedor.io\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "C:\\Users\\usuario\\source\\repos\\MinhaAppMvcCompleta\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\source\\repos\\MinhaAppMvcCompleta\\MinhaAppMvcCompleta\\src\\DevIO.Business\\obj\\",
+        "projectPath": "D:\\Repositorios\\Estudos\\Desenvolvedor.io\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "packagesPath": "C:\\Users\\Leona\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorios\\Estudos\\Desenvolvedor.io\\MinhaAppMvcCompleta\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://10.234.129.19/nugetsaraiva/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,24 +58,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\usuario\\source\\repos\\MinhaAppMvcCompleta\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
+    "D:\\Repositorios\\Estudos\\Desenvolvedor.io\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\MinhaAppMvcCompleta\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectUniqueName": "D:\\Repositorios\\Estudos\\Desenvolvedor.io\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
         "projectName": "DevIO.Data",
-        "projectPath": "C:\\Users\\usuario\\source\\repos\\MinhaAppMvcCompleta\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\source\\repos\\MinhaAppMvcCompleta\\MinhaAppMvcCompleta\\src\\DevIO.Data\\obj\\",
+        "projectPath": "D:\\Repositorios\\Estudos\\Desenvolvedor.io\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "packagesPath": "C:\\Users\\Leona\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorios\\Estudos\\Desenvolvedor.io\\MinhaAppMvcCompleta\\src\\DevIO.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,14 +83,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://10.234.129.19/nugetsaraiva/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\usuario\\source\\repos\\MinhaAppMvcCompleta\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
-                "projectPath": "C:\\Users\\usuario\\source\\repos\\MinhaAppMvcCompleta\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
+              "D:\\Repositorios\\Estudos\\Desenvolvedor.io\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+                "projectPath": "D:\\Repositorios\\Estudos\\Desenvolvedor.io\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
               }
             }
           }
@@ -134,7 +132,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,3 +6,12 @@ C:\Users\usuario\source\repos\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.
 C:\Users\usuario\source\repos\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
 C:\Users\usuario\source\repos\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
 C:\Users\usuario\source\repos\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb

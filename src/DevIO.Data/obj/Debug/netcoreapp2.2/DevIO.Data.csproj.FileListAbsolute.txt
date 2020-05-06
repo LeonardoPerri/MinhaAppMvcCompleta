@@ -9,3 +9,15 @@ C:\Users\usuario\source\repos\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.
 C:\Users\usuario\source\repos\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
 C:\Users\usuario\source\repos\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
 C:\Users\usuario\source\repos\MinhaAppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\Repositorios\Estudos\Desenvolvedor.io\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
