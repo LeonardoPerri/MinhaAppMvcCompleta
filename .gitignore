@@ -354,3 +354,27 @@ MigrationBackup/
 
 # End of https://www.gitignore.io/api/visualstudio
 *.config
+
+src/DevIO\.App/bin/Debug/netcoreapp2\.2/DevIO\.App\.dll
+
+src/DevIO\.App/bin/Debug/netcoreapp2\.2/DevIO\.App\.Views\.dll
+
+src/DevIO\.App/obj/Debug/netcoreapp2\.2/DevIO\.App\.csproj\.FileListAbsolute\.txt
+
+src/DevIO\.App/obj/Debug/netcoreapp2\.2/DevIO\.App\.csprojAssemblyReference\.cache
+
+src/DevIO\.App/obj/Debug/netcoreapp2\.2/DevIO\.App\.dll
+
+src/DevIO\.App/obj/Debug/netcoreapp2\.2/DevIO\.App\.Views\.dll
+
+src/DevIO\.App/obj/Debug/netcoreapp2\.2/Razor/Views/Fornecedores/Index\.cshtml\.g\.cs
+
+src/DevIO\.App/obj/Debug/netcoreapp2\.2/Razor/Views/Produtos/Create\.cshtml\.g\.cs
+
+src/DevIO\.App/obj/Debug/netcoreapp2\.2/Razor/Views/Produtos/Edit\.cshtml\.g\.cs
+
+src/DevIO\.App/obj/Debug/netcoreapp2\.2/Razor/Views/Produtos/Index\.cshtml\.g\.cs
+
+src/DevIO\.Business/obj/Debug/netcoreapp2\.2/DevIO\.Business\.csprojAssemblyReference\.cache
+
+src/DevIO\.Data/obj/Debug/netcoreapp2\.2/DevIO\.Data\.csprojAssemblyReference\.cache
