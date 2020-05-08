@@ -56,7 +56,8 @@
                         @Html.DisplayFor(modelItem => item.Imagem)
                     </td>*@
                 <td>
-                    @Html.DisplayFor(modelItem => item.Valor)
+                    @* Formatando o valor para o tipo de moeda da Cultura em utilização, no caso, REAIS R$; *@
+                    @item.Valor.ToString("C")
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.Ativo)
